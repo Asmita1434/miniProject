@@ -1,4 +1,4 @@
-##❌⭕ Tic Tac Toe Game
+## ❌⭕ Tic Tac Toe Game
 
 A simple yet fun Tic Tac Toe (X and O) game built with HTML, CSS, and JavaScript.
 Play against your friend and enjoy a responsive, interactive design directly in your browser.
@@ -6,7 +6,7 @@ Play against your friend and enjoy a responsive, interactive design directly in 
 ## 🎮 Live Demo
 Play here 👉 [Tic Tac Toe](https://dashing-otter.netlify.app/)
 
-##✨ Features
+## ✨ Features
 
 🎮 Classic two-player gameplay (Player X vs Player O)
 
@@ -18,7 +18,7 @@ Play here 👉 [Tic Tac Toe](https://dashing-otter.netlify.app/)
 
 ⚡ Lightweight and fast (built with vanilla JS)
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 HTML5 → Game structure
 
@@ -27,7 +27,7 @@ CSS3 → Styling and animations
 JavaScript (Vanilla) → Game logic and interactions
 
 
-##📌 Future Improvements
+## 📌 Future Improvements
 
 🖥️ Add single-player mode with AI opponent
 
@@ -35,6 +35,6 @@ JavaScript (Vanilla) → Game logic and interactions
 
 🎶 Add sound effects for moves and wins
 
-##🙌 Acknowledgements
+## 🙌 Acknowledgements
 
 Inspired by the timeless Tic Tac Toe game that we all grew up playing! 
